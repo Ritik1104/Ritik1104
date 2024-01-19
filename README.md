@@ -11,3 +11,6 @@
 <img hight="300" width="400" align="center" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik1104&show_icons=true&locale=en" alt="ritik1104" /></p>
 
+img{
+border-color:red;
+}
